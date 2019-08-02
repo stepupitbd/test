@@ -1,3 +1,3 @@
 <?php
-echo "i am from PHP"
+echo "i am from PHP";
 ?>
